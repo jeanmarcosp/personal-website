@@ -14,8 +14,8 @@ const NavBar = () => {
       </div>
       <div className="links">
         <a href="/projects">Projects</a>
-        <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a href="https://google.com" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a href="https://www.linkedin.com/in/jeanmarcos-perez/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a href="https://github.com/jeanmarcosp" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a className="button-link" href={resume} target="_blank" rel="noopener noreferrer">Resume</a>
       </div>
     </nav>
