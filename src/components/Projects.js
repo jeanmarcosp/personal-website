@@ -7,26 +7,32 @@ const projectsData = [
     id: 1,
     title: "Tiny Search Engine",
     description:
-      "Consisted of 3 programs: crawler, indexer, and querier that parsed web pages and stored words in order to return URLs with highest occurrence of given input.",
-    link: "https://google.com",
+      "Developed a web crawling program to retrieve and store webpages recursively from a seed URL, an indexing system to manage web document indices, and a querying module to handle search queries",
+    link: "https://github.com/jeanmarcosp/tiny-search-engine",
   },
   {
     id: 2,
-    title: "Tiny Search Engine",
-    description: " test.",
-    link: "https://google.com",
+    title: "Blog Database",
+    description: "Created a blog engine using a MongoDB database cluster, PyMongo, and Python. Kept track of posts, comments, delete and show functions.",
+    link: "https://github.com/jeanmarcosp/blog-database",
   },
   {
     id: 3,
-    title: "Tiny Search Engine",
-    description: " test2.",
-    link: "https://google.com",
+    title: "Personal Website",
+    description: "Created a personal website to showcase my projects. Designed in Figma and coded using React.js and CSS",
+    link: "https://github.com/jeanmarcosp/personal-website",
   },
   {
     id: 4,
-    title: "Tiny Search Engine",
-    description: " test3.",
-    link: "https://google.com",
+    title: "Part of Speech Tags",
+    description: "Developed a sentence parsing program in Java, leveraging a hidden Markov model and the Viterbi algorithm to assign parts of speech to individual words with maximum likelihood",
+    link: "https://github.com/jeanmarcosp/part-of-speech-tagger",
+  },
+  {
+    id: 5,
+    title: "Seamless Copy/Paste",
+    description: "Used least sqaures and gradients to seamlessly blend an object or texture from a source image into a target image. ",
+    link: "https://github.com/jeanmarcosp/seamless-copy-paste",
   },
 ];
 
