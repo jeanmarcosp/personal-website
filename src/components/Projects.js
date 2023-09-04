@@ -1,6 +1,6 @@
 import React from "react";
-import "./Projects.css";
-import github from "./github-mark-white.svg";
+import "../styles/Projects.css";
+import github from "../assets/github-mark-white.svg";
 
 const projectsData = [
   {

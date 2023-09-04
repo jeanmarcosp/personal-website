@@ -1,7 +1,7 @@
 // src/components/Home.js
 import React from "react";
-import "./HomePage.css";
-import hero from "./homeimage.jpg";
+import "../styles/HomePage.css";
+import hero from "../assets/homeimage.jpg";
 
 const HomePage = () => {
   return (

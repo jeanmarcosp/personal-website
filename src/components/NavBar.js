@@ -1,8 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './NavBar.css'; // Import your CSS file for styling
-import logo from "./logo.png";
-import resume from './resume.pdf';
+import '../styles/NavBar.css'; 
+import logo from "../assets/logo.png";
+import resume from '../assets/resume.pdf';
 
 const NavBar = () => {
   return (
