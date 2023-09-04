@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/NavBar.css'; 
 import logo from "../assets/logo.png";
-import resume from '../assets/resume.pdf';
+import resume from '../assets/Jeanmarcos_Perez_Resume.pdf';
 
 const NavBar = () => {
   return (
